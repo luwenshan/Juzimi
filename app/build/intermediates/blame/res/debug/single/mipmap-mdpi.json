@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_jingdian.png",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\mipmap-mdpi\\icon_jingdian.png"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_yuanchuang.png",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\mipmap-mdpi\\icon_yuanchuang.png"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\splash_bg.png",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\mipmap-mdpi\\splash_bg.png"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_juji.png",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\mipmap-mdpi\\icon_juji.png"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_linggan.png",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\mipmap-mdpi\\icon_linggan.png"
+    }
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_list_footer">#F3F7F6</color>
+    <string name="app_name">RecyclerViewLibrary</string>
+    <string name="list_footer_end">加载完毕</string>
+    <string name="list_footer_loading">加载中...</string>
+    <string name="list_footer_network_error">点击重新加载</string>
+</resources>

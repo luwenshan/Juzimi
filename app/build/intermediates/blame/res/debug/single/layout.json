@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_juji_detail.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\activity_juji_detail.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_list_footer_loading.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\Juzimi\\recyclerviewlibrary\\unspecified\\res\\layout\\common_list_footer_loading.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_navigation_bar_container.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.0\\res\\layout\\bottom_navigation_bar_container.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_original_list.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\fragment_original_list.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_article.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\fragment_all_article.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_scene_article.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\list_item_scene_article.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_juji_list.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\fragment_juji_list.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shifting_bottom_navigation_item.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.0\\res\\layout\\shifting_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_meitu_meiju.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\fragment_meitu_meiju.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fixed_bottom_navigation_item.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.ashokvarma.android\\bottom-navigation-bar\\1.3.0\\res\\layout\\fixed_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_list_footer.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\Juzimi\\recyclerviewlibrary\\unspecified\\res\\layout\\common_list_footer.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_meitu_meiju.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\list_item_meitu_meiju.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\book_loading.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.victor\\lib\\1.0.4\\res\\layout\\book_loading.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_list_footer_network_error.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\Juzimi\\recyclerviewlibrary\\unspecified\\res\\layout\\common_list_footer_network_error.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_scene_original.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\list_item_scene_original.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_meiju.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\fragment_meiju.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_scene_juji.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\list_item_scene_juji.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_original.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\fragment_original.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newton_cradle_loading.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.victor\\lib\\1.0.4\\res\\layout\\newton_cradle_loading.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_list_footer_end.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\Juzimi\\recyclerviewlibrary\\unspecified\\res\\layout\\common_list_footer_end.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_juji.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\fragment_juji.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_article_list.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\src\\main\\res\\layout\\fragment_article_list.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\layout\\design_layout_snackbar_include.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

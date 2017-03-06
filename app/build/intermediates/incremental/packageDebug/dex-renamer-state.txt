@@ -1,0 +1,7 @@
+#Mon Mar 06 19:55:51 CST 2017
+base.0=G\:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09fb86a0d5e4119c97fdc0ccb993a09b5bb540fe
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cdf42a9b9d7789b3aa7f7f2806fd5bf27fd2f186\\classes.dex
+base.1=G\:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cdf42a9b9d7789b3aa7f7f2806fd5bf27fd2f186
+file.0=G\:\\AndroidWorkspace\\Juzimi\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_09fb86a0d5e4119c97fdc0ccb993a09b5bb540fe\\classes.dex

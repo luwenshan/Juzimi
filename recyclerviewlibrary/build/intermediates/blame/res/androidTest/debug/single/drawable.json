@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sample_footer_loading.png",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sample_footer_error.png",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\bundles\\debug\\res\\drawable\\sample_footer_error.png"
+    }
+]

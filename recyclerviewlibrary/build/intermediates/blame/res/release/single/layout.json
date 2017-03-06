@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\res\\merged\\release\\layout\\common_list_footer.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\src\\main\\res\\layout\\common_list_footer.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\res\\merged\\release\\layout\\common_list_footer_network_error.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\src\\main\\res\\layout\\common_list_footer_network_error.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\res\\merged\\release\\layout\\common_list_footer_end.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\src\\main\\res\\layout\\common_list_footer_end.xml"
+    },
+    {
+        "merged": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\build\\intermediates\\res\\merged\\release\\layout\\common_list_footer_loading.xml",
+        "source": "G:\\AndroidWorkspace\\Juzimi\\recyclerviewlibrary\\src\\main\\res\\layout\\common_list_footer_loading.xml"
+    }
+]
